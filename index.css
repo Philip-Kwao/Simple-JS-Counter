@@ -32,6 +32,15 @@ button {
     background: darkred;
 }
 
+#decrement-btn {
+    background: black;
+}
+
+#btn-option{
+    display: flex;
+    flex-direction: row;
+}
+
 #save-btn {
     background: darkgreen;
 }
